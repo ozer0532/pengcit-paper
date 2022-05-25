@@ -1,7 +1,6 @@
 import cv2
 # import mahotas
 import numpy as np
-from scipy.spatial import distance
 
 
 def load_reference_image(name: str):
